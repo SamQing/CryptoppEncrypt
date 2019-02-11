@@ -8,3 +8,5 @@
 第三阶段：基于Cryptopp及OpenSSL加密库，实现更多加解密算法的C++封装类
 
 通过Google Test对封装的加解密算法C++类进行测试，测试文件见：CryptoppEncrypt/Encrypt/Encrypt/test
+
+**当前处于第一阶段**
